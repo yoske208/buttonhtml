@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#buttonRibua{
+    height: 40px;
+    width: 80px;
+    background-color: white;
+    color: black;
+
+}
+#ribua{
+    margin: 8px;
+    height: 80px;
+    width: 80px;
+    display: block;
+    background-color: yellow;
+    
+}
